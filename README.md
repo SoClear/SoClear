@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-</head>
 <body>
 <h1 color="red;">你好啊</h1>
 </body>
