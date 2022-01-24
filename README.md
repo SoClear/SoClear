@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soclear&bg_color=135deg,#EE9AE5,#5961F9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soclear&bg_color=135,#EE9AE5,#5961F9)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SoClear/SoClear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
