@@ -23,5 +23,6 @@
 ## 🔗 links
 * [Blog](https://www.cnblogs.com/soclear)
 * [GitHub Pages](https://soclear.github.io)
+* [GitHub Gists](https://gist.github.com/SoClear)
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
