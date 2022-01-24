@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h1 style="color:red;">你好啊</h1>
+<h1 color="red;">你好啊</h1>
 </body>
 </html>
 <!-- ### Hi there 👋
