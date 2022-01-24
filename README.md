@@ -2,7 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soclear&hide_border=true&bg_color=135,F6D242,FF52E5)](https://github.com/anuraghazra/github-readme-stats)  
-## Skills
+## 🛠️ Skills
 ### Programming Languages
 ![](https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
